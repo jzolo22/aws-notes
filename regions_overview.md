@@ -10,7 +10,6 @@
   - e.g. `us-east-1` will have `us-east-1-a`, `us-east-1-b`, `us-east-1-c` that make up one region
 - Separated from each other so they're isolated from disasters
 - Connected with high-bandwidth, low latency networking
--
 
 ## How to choose a region?
 
